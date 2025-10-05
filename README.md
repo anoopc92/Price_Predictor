@@ -21,19 +21,6 @@ Streamlit 📈
 Machine Learning Models 🤖
 Pandas & NumPy for data processing
 
-📦 Installation (Optional for Local Setup)
-To run the app locally:
-# Clone the repository
-git clone https://github.com/your-username/price-predictor.git
-
-# Navigate to the project directory
-cd price-predictor
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the app
-streamlit run app.py
 
 🌟 Why Use Price Predictor?
 
